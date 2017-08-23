@@ -1,0 +1,26 @@
+language: js
+version: 0.1.0
+
+platform:
+  - target: ubuntu
+    version: 14.04
+    arch: i686
+
+install:
+  -  npm install
+
+api: 0.7.5
+
+package:
+  - app.js
+  - musicapp.js
+  - routes/index.js
+  - routes/helpers/gtconfig.js
+  - routes/helpers/marvin_client.js
+  - routes/helpers/user-settings.js
+  - views/error.hjs
+  - bin/www 
+  - conf/AppSettings.json
+  - locales/en-GB/messages.pot
+  - locales/it-IT/messages.pot 
+  - package.json
