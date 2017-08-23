@@ -1,0 +1,54 @@
+"Project-Id-Version: gettext\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Christos Kouroupetroglou\n"
+"Language-Team: English, Great Britain\n"
+"Language: en_GB\n"
+"PO-Revision-Date: 2014-07-30 10:15-0400\n"
+
+msgid "What would you like to do?"
+msgstr "What would you like to do?"
+
+msgid "Play music?"
+msgstr "Play music? "
+
+msgid "Select music?"
+msgstr "Select music? "
+
+msgid "Palying"
+msgstr "Playing "
+
+msgid "Play"
+msgstr "Play "
+
+msgid "Pause"
+msgstr "Pause "
+
+msgid "Stop"
+msgstr "Stop "
+
+msgid "Louder"
+msgstr "Louder "
+
+msgid "Quieter"
+msgstr "Quieter "
+
+msgid "Next song"
+msgstr "Next song  "
+
+msgid "Previous song"
+msgstr "Previous song "
+
+msgid "warning"
+msgstr "I will start playing music for you now. When I play music I cannot hear you so please touch my screen to control me. "
+
+msgid "play_keywords"
+msgstr "play,listen"
+
+msgid "select_keywords"
+msgstr "select,find"
+
+msgid "What would you like to listen to?"
+msgstr "What would you like to listen to?"

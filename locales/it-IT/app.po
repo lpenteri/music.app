@@ -1,0 +1,54 @@
+"Project-Id-Version: gettext\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Christos Kouroupetroglou\n"
+"Language-Team: English, Great Britain\n"
+"Language: it-IT\n"
+"PO-Revision-Date: 2014-07-30 10:15-0400\n"
+
+msgid "What would you like to do?"
+msgstr "Cosa vorresti fare?"
+
+msgid "Play music?"
+msgstr "Ascoltare la musica? "
+
+msgid "Select music?"
+msgstr "Scegliere il genere musicale? "
+
+msgid "Palying"
+msgstr "Eseguendo "
+
+msgid "Play"
+msgstr "Riproduci "
+
+msgid "Pause"
+msgstr "Pausa "
+
+msgid "Stop"
+msgstr "Stop "
+
+msgid "Louder"
+msgstr "Alza volume "
+
+msgid "Quieter"
+msgstr "Riduci volume "
+
+msgid "Next song"
+msgstr "Prossima  "
+
+msgid "Previous song"
+msgstr "Precedente "
+
+msgid "warning"
+msgstr "Ascoltiamo un po' di musica! Mentre senti le canzoni puoi controllarmi solo toccando lo schermo!"
+
+msgid "play_keywords"
+msgstr "riproduci,avvia,sentire,ascoltare,suona,partire"
+
+msgid "select_keywords"
+msgstr "seleziona,trova,selezionare,scegliere"
+
+msgid "What would you like to listen to?"
+msgstr "Che genere vorresti ascoltare?"
